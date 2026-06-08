@@ -149,8 +149,8 @@ Each folder contains:
 
 ## 🔗 Links
 
-* GitHub: [https://github.com/yourusername/Data-Analytics-Portfolio](https://github.com/extremesam/Data-Analytics-Portfolio)
-* LinkedIn: [https://linkedin.com/in/yourprofile](https://linkedin.com/in/samson-adeyomoye)
+* GitHub: [https://github.com/extremesam/Data-Analytics-Portfolio](https://github.com/extremesam/Data-Analytics-Portfolio)
+* LinkedIn: [https://linkedin.com/in/samson-adeyomoye](https://linkedin.com/in/samson-adeyomoye)
 * Portfolio Website: [https://yourportfolio.com](https://yourportfolio.com)
 
 ---
