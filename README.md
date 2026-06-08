@@ -149,9 +149,9 @@ Each folder contains:
 
 ## 🔗 Links
 
-* GitHub: [https://github.com/yourusername/Data-Analytics-Portfolio](https://github.com/yourusername/Data-Analytics-Portfolio)
-* LinkedIn: [https://linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-* Portfolio Website (optional): [https://yourportfolio.com](https://yourportfolio.com)
+* GitHub: [https://github.com/yourusername/Data-Analytics-Portfolio](https://github.com/extremesam/Data-Analytics-Portfolio)
+* LinkedIn: [https://linkedin.com/in/yourprofile](https://linkedin.com/in/samson-adeyomoye)
+* Portfolio Website: [https://yourportfolio.com](https://yourportfolio.com)
 
 ---
 
@@ -160,5 +160,3 @@ Each folder contains:
 This portfolio is continuously evolving as I build more advanced analytics and visualization projects.
 
 ---
-
-If you want, next step I can:
