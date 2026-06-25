@@ -49,7 +49,7 @@ It helps businesses improve customer lifetime value and reduce revenue loss.
 
 ## 📷 Dashboard Preview
 
-> Add screenshot here: `/screenshots/churn-dashboard.png`
+![Dashboard Screenshot](screenshot/dashboard.png)
 
 ---
 
