@@ -49,7 +49,7 @@ It supports financial planning, budgeting, and performance evaluation.
 
 ## 📷 Dashboard Preview
 
-> Add screenshot here: `/screenshots/financial-dashboard.png`
+![Dashboard Screenshot](screenshots/financial-dashboard.png)
 
 ---
 
