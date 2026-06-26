@@ -1,4 +1,4 @@
-# 💰 Financial Performance & Budget Variance Analysis Dashboard | Power BI
+# 💰 Financial Performance & Budget Analytics Dashboard
 
 ## 📊 Overview
 
