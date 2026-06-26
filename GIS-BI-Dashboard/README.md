@@ -50,7 +50,7 @@ It supports ESG (Environmental, Social, and Governance) decision-making and urba
 
 ## 📷 Dashboard Preview
 
-![Dashboard Screenshot](screenshot/dashboard.png)
+![Dashboard Screenshot](screenshots/gis-dashboard.png)
 
 ---
 
